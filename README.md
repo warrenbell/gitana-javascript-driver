@@ -1,4 +1,4 @@
-# Gitana Driver for Cloud CMS
+# Gitana Driver for Cloud CMS Changed
 
 This driver provides connectivity between a JavaScript application and Cloud CMS.
 
@@ -171,4 +171,3 @@ You can learn more about Cloud CMS by visiting our web site at
 
 ## Maintainers
 * Michael Uzquiano     uzi@cloudcms.com
-
